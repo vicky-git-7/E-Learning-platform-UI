@@ -18,3 +18,5 @@ The project involves the design of an interactive e-learning platform's front-en
 
 
 OUTPUT
+
+![Image](https://github.com/user-attachments/assets/b7f9df2d-3bc5-4725-9263-22f43ad683be)
